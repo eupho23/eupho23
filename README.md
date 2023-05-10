@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://visitcount.itsvg.in/api?id=eupho23&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=eupho23&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
