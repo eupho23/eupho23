@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- count -->
 [![](https://visitcount.itsvg.in/api?id=eupho23&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/eupho23/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eupho23&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/eupho23/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eupho23&repo=convoychat" />
 </a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eupho23)](https://github.com/eupho23/github-readme-stats)
 
-#donut
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eupho23)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- #donut -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eupho23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-#Quote
+<!-- #Quote -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
