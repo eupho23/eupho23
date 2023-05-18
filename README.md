@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [reach out: reach.at/]([reach.at/karthika](https://reach.at/karthika))
 
-[Octocat](https://github.com/eupho23/eupho23/assets/120839793/5f1fe9ae-48b6-4634-a620-f8d36c386b8e)
+![Octocat-removebg-preview](https://github.com/eupho23/eupho23/assets/120839793/a5364b59-f8f4-46d7-bf60-0f0e442b8e4b)
 
 <!-- #donut -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eupho23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
